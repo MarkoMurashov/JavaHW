@@ -1,0 +1,80 @@
+commit 2c14ee5a695c8799d01aa0a44eeff6895680598e (HEAD -> homework_01)
+Merge: 4abe3e1 6f4b601
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:33:34 2020 +0300
+
+    Merge branch 'homework_01_b' into homework_01
+
+commit 4abe3e1dae898194d7e9019297885aaaa310c8ab
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:31:08 2020 +0300
+
+    C
+
+commit 6f4b601077acc78a82bcb22a6124d8484ca11c68 (origin/homework_01_b, homework_01_b)
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:30:07 2020 +0300
+
+    B
+
+commit 02f0b502784e0d4be6c2ae45e3fc4cbd04702b34 (tag: hw_01_tag_init)
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:26:37 2020 +0300
+:...skipping...
+commit 2c14ee5a695c8799d01aa0a44eeff6895680598e (HEAD -> homework_01)
+Merge: 4abe3e1 6f4b601
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:33:34 2020 +0300
+
+    Merge branch 'homework_01_b' into homework_01
+
+commit 4abe3e1dae898194d7e9019297885aaaa310c8ab
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:31:08 2020 +0300
+
+    C
+
+commit 6f4b601077acc78a82bcb22a6124d8484ca11c68 (origin/homework_01_b, homework_01_b)
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:30:07 2020 +0300
+
+    B
+
+commit 02f0b502784e0d4be6c2ae45e3fc4cbd04702b34 (tag: hw_01_tag_init)
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:26:37 2020 +0300
+
+    initial
+
+commit a55fae6c1ea8de5113f43c811fa7e9422825ffce (origin/master, master, hw1)
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:17:26 2020 +0300
+
+    del
+
+commit 99cca1d19cef3390ecc234fba06d7b3d9cd9850e
+Merge: 1b2e2d6 48e4d91
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:15:43 2020 +0300
+
+    Merge branch 'master' of https://gitlab.com/mmura/homework
+
+    Signed-off-by: markmurashov7 <markmurashov7@gmail.com>
+
+commit 1b2e2d686026d0a44a4faa0ad962d909a53f0b31
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri May 1 12:10:52 2020 +0300
+
+    update gitirnore
+
+commit 48e4d91d4741fc8326f8e332601125fb05381b97
+Author: Marko Murashov <markmurashov7@gmail.com>
+Date:   Tue Apr 28 12:47:22 2020 +0000
+
+    Update README.md
+
+commit 9ec31d3d408f95da2a382c3ec16a3ee0cd907f3f
+Author: markmurashov7 <markmurashov7@gmail.com>
+Date:   Fri Apr 17 23:41:51 2020 +0300
+
+    Initial commit
